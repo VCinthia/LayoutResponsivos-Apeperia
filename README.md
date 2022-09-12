@@ -2,4 +2,5 @@
 
 Proyecto Apeperia para OracleOne - Alura Latam
 
-[Captura proyecto Apeperia.pdf](https://github.com/VCinthia/LayoutResponsivos-Apeperia/files/9551754/Captura.proyecto.Apeperia.pdf)
+
+![apeperia](https://user-images.githubusercontent.com/93406033/189756529-5fae5d6f-1379-4121-bf6c-77950852eb17.png)
